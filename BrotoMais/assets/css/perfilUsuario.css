@@ -1,0 +1,94 @@
+:root{
+    --cor-primaria-laranja:#F58A07;
+    --cor-primaria-verde:#669D31;
+    --cor-secundaria-amarela:#FEEA00;
+    --cor-secundaria-begeClaro:#FEFADC;
+    --cor-secundaria-preto:#2D2C2C;
+    --fonte-logo:"Mochiy Pop One", sans-serif;
+    --fonte-principal-conteudo:"DM sans", sans-serif;
+}
+
+main {
+    color: var(--cor-secundaria-preto);
+    width: 80%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.row-cards {
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly;
+
+}
+
+.row-cards h4{
+    margin-left: 5%;
+    font-weight: bolder;
+}
+
+.card-infos {
+    padding: 2%;
+    width: 100%;
+    margin-top: 0%;
+    margin-bottom: 1%;
+    flex-wrap:wrap;
+
+}
+
+.colunaCard {
+    border: 1px solid;
+    
+}
+
+.subTitulosCards {
+    font-weight: bolder;
+    
+}
+
+.textosCards {
+    font-weight: 500;
+}
+
+.textosCards, .subTitulosCards {
+    font-family: var(--fonte-principal-conteudo);
+    color: var(--cor-secundaria-preto);
+    font-size: 1.1em;
+    
+}
+
+
+.card-item-plano:hover {
+    cursor: pointer;
+    
+}
+
+#meuPerfil{
+    background-color: #669d31 !important;
+  }
+  
+  #meuPerfil svg {
+    fill: #fefadc !important;
+  }
+  
+  #meuPerfil p {
+    color: #fefadc !important;
+  }
+
+  .menu-oculto {
+    display: none;
+  }
+
+  /*Config para mobile*/
+  @media only screen and (max-width:990px){
+    .card-menu {
+        display:none !important;
+    }
+
+    .menu-oculto {
+        display:initial;
+    }
+  }
