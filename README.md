@@ -47,13 +47,13 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/raphael-pereira-rps23/" target="_blank">
-        <img src="BrotoMais/assets/imgs/grupo/rapha.png" alt="Rapha" width="150px" style="border-radius: 50%; border: 4px solid #4CAF50;">
+        <img src="BrotoMais/assets/imgs/grupo/rapha.png" alt="Rapha" width="200px" style="border-radius: 50%; border: 4px solid #4CAF50;">
       </a>
       <h3>Rapha</h3>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/wesley-rocha-908128321/" target="_blank">
-        <img src="BrotoMais/assets/imgs/grupo/wesley.png" alt="Wesley" width="150px" style="border-radius: 50%; border: 4px solid #4CAF50;">
+        <img src="BrotoMais/assets/imgs/grupo/wesley.png" alt="Wesley" width="200px" style="border-radius: 50%; border: 4px solid #4CAF50;">
       </a>
       <h3>Wesley</h3>
     </td>
