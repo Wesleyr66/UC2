@@ -19,19 +19,45 @@
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
     <div style="text-align: center;">
-        <img src="" alt="Integrante 1" style="border: 5px solid #4CAF50; border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
-        <h3>Nome do Integrante 1</h3>
+    <a href="https://www.linkedin.com/in/beatriz-imarques/" target="_blank">
+        <img src="BrotoMais/assets/imgs/grupo/bia.png" alt="Integrante 1" style="border: 4px solid #4CAF50; border-radius: 50%; width: 150px; height: 200px; object-fit: cover;">
+    </a>
+    <h3>Ana Beatriz</h3>
+</div>
+<div style="text-align: center;">
+    <a href="https://www.linkedin.com/in/victor-ramalho-117396293/" target="_blank">
+        <img src="BrotoMais/assets/imgs/grupo/Imagem_do_WhatsApp_de_2024-09-12_à_s__01.56.24_3f0699e0-removebg-preview.png" alt="Integrante 2" style="border: 4px solid #4CAF50; border-radius: 50%; width: 150px; height: 200px; object-fit: cover;">
+    </a>
+    <h3>Victor Ramalho</h3>
     </div>
     <div style="text-align: center;">
-        <img src="" alt="Integrante 2" style="border: 5px solid #4CAF50; border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
-        <h3>Nome do Integrante 2</h3>
+        <a href="https://www.linkedin.com/in/jesse-alves-52a564287/" target="_blank">
+            <img src="BrotoMais/assets/imgs/grupo/kaique.png" alt="Integrante 3" style="border: 4px solid #4CAF50; border-radius: 50%; width: 150px; height: 200px; object-fit: cover;">
+        </a>
+        <h3>Kaique</h3>
     </div>
     <div style="text-align: center;">
-        <img src="" alt="Integrante 3" style="border: 5px solid #4CAF50; border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
-        <h3>Nome do Integrante 3</h3>
+        <a href="https://www.linkedin.com/in/lucas-carvalho-207a60207/" target="_blank">
+            <img src="BrotoMais/assets/imgs/grupo/lucas-ofcial-removebg-preview.png" alt="Integrante 4" style="border: 4px solid #4CAF50; border-radius: 50%; width: 150px; height: 200px; object-fit: cover;">
+        </a>
+        <h3>Lucas</h3>
     </div>
     <div style="text-align: center;">
-        <img src="" alt="Integrante 4" style="border: 5px solid #4CAF50; border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
-        <h3>Nome do Integrante 4</h3>
+        <a href="https://www.linkedin.com/in/raphael-pereira-rps23/" target="_blank">
+            <img src="BrotoMais/assets/imgs/grupo/rapha.png" alt="Integrante 1" style="border: 4px solid #4CAF50; border-radius: 50%; width: 150px; height: 200px; object-fit: cover;">
+        </a>
+        <h3>Rapha</h3>
+    </div>
+    <div style="text-align: center;">
+        <a href="https://www.linkedin.com/in/wesley-rocha-908128321/" target="_blank">
+            <img src="BrotoMais/assets/imgs/grupo/wesley.png" alt="Integrante 1" style="border: 4px solid #4CAF50; border-radius: 50%; width: 150px; height: 200px; object-fit: cover;">
+        </a>
+        <h3>Wesley</h3>
     </div>
 </div>
+
+## Hospedagem do Projeto
+
+O projeto está hospedado e pode ser acessado por meio do seguinte link:
+
+[https://broto-mais.vercel.app/index.html](https://broto-mais.vercel.app/index.html)
