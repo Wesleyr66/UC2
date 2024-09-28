@@ -17,44 +17,48 @@
 
 ## Integrantes do Projeto
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-    <div style="text-align: center;">
-    <a href="https://www.linkedin.com/in/beatriz-imarques/" target="_blank">
-        <img src="BrotoMais/assets/imgs/grupo/bia.png" alt="Integrante 1" style="border: 4px solid #4CAF50; border-radius: 50%; width: 150px; height: 200px; object-fit: cover;">
-    </a>
-    <h3>Ana Beatriz</h3>
-</div>
-<div style="text-align: center;">
-    <a href="https://www.linkedin.com/in/victor-ramalho-117396293/" target="_blank">
-        <img src="BrotoMais/assets/imgs/grupo/Imagem_do_WhatsApp_de_2024-09-12_à_s__01.56.24_3f0699e0-removebg-preview.png" alt="Integrante 2" style="border: 4px solid #4CAF50; border-radius: 50%; width: 150px; height: 200px; object-fit: cover;">
-    </a>
-    <h3>Victor Ramalho</h3>
-    </div>
-    <div style="text-align: center;">
-        <a href="https://www.linkedin.com/in/jesse-alves-52a564287/" target="_blank">
-            <img src="BrotoMais/assets/imgs/grupo/kaique.png" alt="Integrante 3" style="border: 4px solid #4CAF50; border-radius: 50%; width: 150px; height: 200px; object-fit: cover;">
-        </a>
-        <h3>Kaique</h3>
-    </div>
-    <div style="text-align: center;">
-        <a href="https://www.linkedin.com/in/lucas-carvalho-207a60207/" target="_blank">
-            <img src="BrotoMais/assets/imgs/grupo/lucas-ofcial-removebg-preview.png" alt="Integrante 4" style="border: 4px solid #4CAF50; border-radius: 50%; width: 150px; height: 200px; object-fit: cover;">
-        </a>
-        <h3>Lucas</h3>
-    </div>
-    <div style="text-align: center;">
-        <a href="https://www.linkedin.com/in/raphael-pereira-rps23/" target="_blank">
-            <img src="BrotoMais/assets/imgs/grupo/rapha.png" alt="Integrante 1" style="border: 4px solid #4CAF50; border-radius: 50%; width: 150px; height: 200px; object-fit: cover;">
-        </a>
-        <h3>Rapha</h3>
-    </div>
-    <div style="text-align: center;">
-        <a href="https://www.linkedin.com/in/wesley-rocha-908128321/" target="_blank">
-            <img src="BrotoMais/assets/imgs/grupo/wesley.png" alt="Integrante 1" style="border: 4px solid #4CAF50; border-radius: 50%; width: 150px; height: 200px; object-fit: cover;">
-        </a>
-        <h3>Wesley</h3>
-    </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/beatriz-imarques/" target="_blank">
+        <img src="BrotoMais/assets/imgs/grupo/bia.png" alt="Ana Beatriz" width="150px" style="border-radius: 50%; border: 4px solid #4CAF50;">
+      </a>
+      <h3>Ana Beatriz</h3>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/victor-ramalho-117396293/" target="_blank">
+        <img src="BrotoMais/assets/imgs/grupo/Imagem_do_WhatsApp_de_2024-09-12_à_s__01.56.24_3f0699e0-removebg-preview.png" alt="Victor Ramalho" width="150px" style="border-radius: 50%; border: 4px solid #4CAF50;">
+      </a>
+      <h3>Victor Ramalho</h3>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/jesse-alves-52a564287/" target="_blank">
+        <img src="BrotoMais/assets/imgs/grupo/kaique.png" alt="Kaique" width="150px" style="border-radius: 50%; border: 4px solid #4CAF50;">
+      </a>
+      <h3>Kaique</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/lucas-carvalho-207a60207/" target="_blank">
+        <img src="BrotoMais/assets/imgs/grupo/lucas-ofcial-removebg-preview.png" alt="Lucas" width="150px" style="border-radius: 50%; border: 4px solid #4CAF50;">
+      </a>
+      <h3>Lucas</h3>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/raphael-pereira-rps23/" target="_blank">
+        <img src="BrotoMais/assets/imgs/grupo/rapha.png" alt="Rapha" width="150px" style="border-radius: 50%; border: 4px solid #4CAF50;">
+      </a>
+      <h3>Rapha</h3>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/wesley-rocha-908128321/" target="_blank">
+        <img src="BrotoMais/assets/imgs/grupo/wesley.png" alt="Wesley" width="150px" style="border-radius: 50%; border: 4px solid #4CAF50;">
+      </a>
+      <h3>Wesley</h3>
+    </td>
+  </tr>
+</table>
 
 ## Hospedagem do Projeto
 
