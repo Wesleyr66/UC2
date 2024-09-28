@@ -1,4 +1,4 @@
-# Broto+ (Broto Mais) - Mudas de Alta Qualidade
+# Broto+
 
 **Missão:** Vender mudas de alta qualidade diretamente de pequenos produtores, promovendo segurança, sustentabilidade e apoio aos microempreendedores.
 
@@ -19,19 +19,19 @@
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
     <div style="text-align: center;">
-        <img src="url-da-imagem-integrante1.jpg" alt="Integrante 1" style="border: 5px solid #4CAF50; border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+        <img src="" alt="Integrante 1" style="border: 5px solid #4CAF50; border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
         <h3>Nome do Integrante 1</h3>
     </div>
     <div style="text-align: center;">
-        <img src="url-da-imagem-integrante2.jpg" alt="Integrante 2" style="border: 5px solid #4CAF50; border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+        <img src="" alt="Integrante 2" style="border: 5px solid #4CAF50; border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
         <h3>Nome do Integrante 2</h3>
     </div>
     <div style="text-align: center;">
-        <img src="url-da-imagem-integrante3.jpg" alt="Integrante 3" style="border: 5px solid #4CAF50; border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+        <img src="" alt="Integrante 3" style="border: 5px solid #4CAF50; border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
         <h3>Nome do Integrante 3</h3>
     </div>
     <div style="text-align: center;">
-        <img src="url-da-imagem-integrante4.jpg" alt="Integrante 4" style="border: 5px solid #4CAF50; border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+        <img src="" alt="Integrante 4" style="border: 5px solid #4CAF50; border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
         <h3>Nome do Integrante 4</h3>
     </div>
 </div>
